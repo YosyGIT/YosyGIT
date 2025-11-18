@@ -25,13 +25,6 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 Aquí puedes ver mi dedicación y actividad reciente en mis repositorios, reflejo de mi aprendizaje y mis primeros proyectos.
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosyGIT&theme=dracula&hide_border=true&date=2025-11-18" alt="GitHub Streak" />
-</p>
-
-<p>
-    
-</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub - YosyGIT" />
