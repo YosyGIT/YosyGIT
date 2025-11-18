@@ -21,13 +21,13 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ---
 
-## 📈 Mis Estadísticas en GitHub
+## 📈 Mi Actividad en GitHub
 
-Aquí puedes ver mi actividad y los lenguajes en los que me estoy enfocando:
+Aquí puedes ver mi actividad reciente y los lenguajes en los que estoy trabajando, reflejo de mi aprendizaje y mis primeros proyectos.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub - YosyGIT" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes Más Usados - YosyGIT" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es&card_width=400" alt="Estadísticas de GitHub - YosyGIT" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=radical&hide_border=true&locale=es&card_width=400" alt="Lenguajes Más Usados - YosyGIT" />
 </p>
 
 ---
