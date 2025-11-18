@@ -26,15 +26,15 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 Aquí puedes ver mi dedicación y actividad reciente en mis repositorios, reflejo de mi aprendizaje y mis primeros proyectos.
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosyGIT&theme=dracula&hide_border=true&card_width=450" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosyGIT&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</p>
 
-    <br/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub - YosyGIT" />
+</p>
 
-    <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=es&card_width=450" alt="Estadísticas de GitHub - YosyGIT" />
-
-    <br/>
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=dracula&hide_border=true&locale=es&card_width=450" alt="Lenguajes Más Usados - YosyGIT" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=dracula&hide_border=true&locale=es" alt="Lenguajes Más Usados - YosyGIT" />
 </p>
 
 ---
@@ -66,5 +66,5 @@ Estoy abierto a conectar con otros desarrolladores, y busco activamente oportuni
 * **📍 Ubicación:** Palencia, España
 
 <p align="center">
-    <img src="https://visitor-badge.pages.dev/badge?page_id=YosyGIT.YosyGIT&style=for-the-badge&color=blue" alt="Contador de Visitas">
+    <img src="https://api.visitorbadge.io/api/visitors?path=YosyGIT&countColor=%23007EC6&style=for-the-badge" alt="Contador de Visitas">
 </p>
