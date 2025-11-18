@@ -1,61 +1,63 @@
-# ¡Hola! Soy YosyGIT 👋
+# ¡Hola! Soy José Rubia Inclán 👋
 
-Soy un **Estudiante de Desarrollo de Aplicaciones Web (DAW)**, actualmente cursando el primer año.
+Soy un **Estudiante de Desarrollo de Aplicaciones Web (DAW)**, actualmente cursando el **Primer año**.
 
-Me apasiona construir **sistemas robustos y eficientes** que resuelvan problemas reales, con un enfoque en la **gestión óptima de la información** y la **calidad del código**.
+Me estoy enfocando en construir una base sólida en programación orientada a objetos (POO) con Java y en el desarrollo web fundamental. Me motiva aprender a crear sistemas que gestionen la información de manera lógica y eficiente.
 
 ---
 
 ## 🛠️ Mi Stack de Tecnologías
 
-Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo experiencia:
+Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo experiencia en mi formación:
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `Java` (Mi fuerte) |
-| **Bases de Datos** | `Oracle SQL Developer` |
-| **Frontend/Web** | `HTML5`, `CSS3`, `<Framework de Frontend: Ej. React, Vue>` |
-| **Herramientas/Otros** | `Git/GitHub`, `Linux` |
+| **Lenguajes Clave** | `Java` (Mi base actual), `HTML5`, `CSS3` |
+| **Bases de Datos** | `Oracle SQL` |
+| **Markup / Datos** | `XML`, `XSLT`, `DTD` |
+| **Herramientas/S.O.** | `Linux Bash`, `Git/GitHub` |
 
-> **💡 Consejo para empresas:** Siempre estoy abierto a aprender nuevas tecnologías y adaptarme a los requisitos del proyecto.
+> **📌 Enfoque:** Desarrollo de aplicaciones de consola y sistemas de gestión de datos. Siempre con la intención de aplicar buenas prácticas de código.
 
 ---
 
 ## 📈 Mis Estadísticas en GitHub
 
-Quiero que veas mi actividad y mis principales contribuciones.
+Aquí puedes ver mi actividad y los lenguajes en los que me estoy enfocando:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=radical&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub - YosyGIT" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=radical&hide_border=true&locale=es" alt="Lenguajes Más Usados - YosyGIT" />
 </p>
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-Aquí puedes ver algunos de mis trabajos más relevantes que demuestran mis habilidades en <Menciona una habilidad clave: Ej. desarrollo backend, gestión de bases de datos, aplicaciones móviles>.
+Estos proyectos demuestran mis habilidades en **programación en consola** y **gestión básica de datos con Java**:
 
-* **<Nombre del Proyecto 1>:**
-    * **Tecnologías:** <Ej. Java, MySQL, Spring Boot>
-    * **Descripción:** <Breve descripción de 1 línea: qué hace y qué problema resuelve.>
-    * [Ver Código Fuente](<Enlace a tu repositorio>)
+### 1. Inventario Basico
 
-* **<Nombre del Proyecto 2>:**
-    * **Tecnologías:** <Ej. Kotlin, Android Studio>
-    * **Descripción:** <Breve descripción de 1 línea: qué hace y qué problema resuelve.>
-    * [Ver Código Fuente](<Enlace a tu repositorio>)
+* **Tecnologías:** `Java`, `Lógica de Control de Flujo`
+* **Descripción:** Aplicación de consola diseñada para la gestión básica de inventarios. Permite al usuario **crear nuevos productos**, **editar el stock** de los existentes y facilita la **búsqueda de productos** con un eficiente buscador que funciona solo con las iniciales.
+* [**Ver Código Fuente**](https://github.com/YosyGIT/TrabajosPersonales/tree/master/src/inventario)
+
+### 2. Dibujo (Simulador de Tablero)
+
+* **Tecnologías:** `Java`, `Estructuras de Datos`, `Interacción por Consola`
+* **Descripción:** Programa interactivo que simula un tablero. Permite al usuario desplazarse con un menú e ir **dibujando y borrando** a su gusto, ideal para practicar la manipulación de arrays y la lógica de movimiento.
+* [**Ver Código Fuente**](https://github.com/YosyGIT/EstructurasBasicas03/blob/master/src/Dibujo.java)
 
 ---
 
 ## 💬 ¿Conectamos?
 
-Estoy buscando oportunidades para prácticas o roles de desarrollador **Junior** donde pueda aplicar mis conocimientos y seguir creciendo profesionalmente. ¡No dudes en contactarme!
+Estoy abierto a conectar con otros desarrolladores, y busco activamente oportunidades para **prácticas** o roles de desarrollador **Trainee/Junior** donde pueda aportar mi base de conocimientos y crecer profesionalmente.
 
-* **📧 Email:** **<joserubiacontacto@gmail.com>**
-* **🔗 LinkedIn:** [Mi Perfil de LinkedIn](<(https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/)>)
-* **📍 Ubicación:** <Palencia, España>
+* **📧 Email:** **joserubiacontacto@gmail.com**
+* **🔗 LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/)
+* **📍 Ubicación:** Palencia, España
 
 <p align="center">
-    <img src="https://profile-counter.glitch.me/<AndresCommit>/count.svg" alt="Contador de Visitas">
+    <img src="https://profile-counter.glitch.me/YosyGIT/count.svg" alt="Contador de Visitas">
 </p>
