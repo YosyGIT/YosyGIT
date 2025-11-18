@@ -26,8 +26,8 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 Quiero que veas mi actividad y mis principales contribuciones.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresCommit&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCommit&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
 </p>
 
 ---
