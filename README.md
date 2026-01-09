@@ -17,14 +17,13 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 | **Markup / Datos** | `XML`, `XSLT`, `DTD` |
 | **Herramientas/S.O.** | `Linux Bash`, `Git/GitHub` |
 
-> **📌 Enfoque:** Desarrollo de aplicaciones de consola y sistemas de gestión de datos. Siempre con la intención de aplicar buenas prácticas de código.
+> **📌 Enfoque:** Desarrollo de aplicaciones de consola y sistemas de gestión de datos bajo principios de POO y buenas prácticas de código.
 
 ---
 
 ## 📈 Mi Actividad en GitHub
 
 Aquí puedes ver mi dedicación y actividad reciente en mis repositorios, reflejo de mi aprendizaje y mis primeros proyectos.
-
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YosyGIT&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=es" alt="Estadísticas de GitHub - YosyGIT" />
@@ -38,18 +37,18 @@ Aquí puedes ver mi dedicación y actividad reciente en mis repositorios, reflej
 
 ## 🌟 Proyectos Destacados
 
-Estos proyectos demuestran mis habilidades en **programación en consola** y **gestión básica de datos con Java**:
+Estos proyectos demuestran mis habilidades en **programación orientada a objetos** y **arquitectura de lógica en Java**:
 
-### 1. Inventario Basico
+### 1. SmartStock: Gestión de Inventarios 📦
 
-* **Tecnologías:** `Java`, `Lógica de Control de Flujo`
-* **Descripción:** Aplicación de consola diseñada para la gestión básica de inventarios. Permite al usuario **crear nuevos productos**, **editar el stock** de los existentes y facilita la **búsqueda de productos** con un eficiente buscador que funciona solo con las iniciales.
-* [**Ver Código Fuente**](https://github.com/YosyGIT/TrabajosPersonales/tree/master/src/inventario)
+* **Tecnologías:** `Java`, `POO (Encapsulamiento)`, `Lógica de Arrays`, `Tratamiento de Strings`
+* **Descripción:** Sistema avanzado de gestión multi-almacén (hasta 10 inventarios independientes). Incluye **generación automática de IDs únicos** (PROD-000X), filtros de búsqueda flexible y un motor de **alertas de reposición** para productos bajo mínimos. Aplica robustez en los datos mediante getters/setters y formateo dinámico de entradas.
+* [**Ver Código Fuente**](https://github.com/YosyGIT/TrabajosPersonales/tree/master/src/personal02)
 
 ### 2. Dibujo (Simulador de Tablero)
 
 * **Tecnologías:** `Java`, `Estructuras de Datos`, `Interacción por Consola`
-* **Descripción:** Programa interactivo que simula un tablero. Permite al usuario desplazarse con un menú e ir **dibujando y borrando** a su gusto, ideal para practicar la manipulación de arrays y la lógica de movimiento.
+* **Descripción:** Programa interactivo que simula un tablero gráfico en consola. Permite al usuario desplazarse con un menú e ir **dibujando y borrando** a su gusto, ideal para practicar la manipulación de arrays bidimensionales y la lógica de movimiento espacial.
 * [**Ver Código Fuente**](https://github.com/YosyGIT/EstructurasBasicas03/blob/master/src/Dibujo.java)
 
 ---
