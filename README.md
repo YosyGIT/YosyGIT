@@ -41,8 +41,11 @@ Estos proyectos demuestran mis habilidades en **programación orientada a objeto
 
 ### 1. SmartStock: Gestión de Inventarios 📦
 
-* **Tecnologías:** `Java`, `POO (Encapsulamiento)`, `Lógica de Arrays`, `Tratamiento de Strings`
-* **Descripción:** Sistema avanzado de gestión multi-almacén (hasta 10 inventarios independientes). Incluye **generación automática de IDs únicos** (PROD-000X), filtros de búsqueda flexible y un motor de **alertas de reposición** para productos bajo mínimos. Aplica robustez en los datos mediante getters/setters y formateo dinámico de entradas.
+* **Tecnologías:** `Java`, `Regex (Expresiones Regulares)`, `Gestión de Memoria`, `Javadoc`.
+* **Hitos Técnicos:**
+    * **Validación Robusta:** Implementación de Regex con *Lookahead* para asegurar precios mayores a cero y prevenir cierres inesperados por entradas alfanuméricas.
+    * **Arquitectura de Datos:** Gestión jerárquica de almacenes mediante arrays de objetos, evitando redundancia de información.
+    * **Identificación Dinámica:** Generación automática de IDs únicos para cada producto.
 * [**Ver Código Fuente**](https://github.com/YosyGIT/TrabajosPersonales/tree/master/src/personal02)
 
 ### 2. Dibujo (Simulador de Tablero)
