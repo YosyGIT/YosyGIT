@@ -1,4 +1,4 @@
-<h1 align="center> José Rubia Inclán </h1>
+<h1 align="center"> José Rubia Inclán </h1>
 
 <p align="center">
   <b>Estudiante de Desarrollo de Aplicaciones Web (DAW)</b><br>
