@@ -55,14 +55,14 @@ Me motiva el aprendizaje constante, afrontar retos complejos de optimización y 
 ## Formación académica
 
 * **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
-  * 🏫 CIFP Camino de la Miranda
-  * 📅 2024 - Presente
+  * CIFP Camino de la Miranda
+  * 2024 - Presente
 * **Técnico en Sistemas Microinformáticos y Redes (SMR)**
-  * 🏫 Centro Implika
-  * 📅 2020 - 2022
+  * Centro Implika
+  * 2020 - 2022
 * **Especialización en Diseño y Creación de Videojuegos y Realidad Virtual**
-  * 🏫 Centro Implika
-  * 📅 2020 - 2022
+  * Centro Implika
+  * 2020 - 2022
 
 ---
 
