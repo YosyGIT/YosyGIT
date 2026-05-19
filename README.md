@@ -1,4 +1,4 @@
-# ¡Hola! Soy José Rubia Inclán 👋
+# José Rubia Inclán 
 
 Soy un **Estudiante de Desarrollo de Aplicaciones Web (DAW)**, actualmente cursando el **Primer año**.
 
