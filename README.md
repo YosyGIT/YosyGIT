@@ -5,7 +5,7 @@ Soy un **Estudiante de Desarrollo de Aplicaciones Web (DAW)**, actualmente cursa
 ---
 
 ## Sobre mí
---
+
 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** enfocado en la creación de soluciones eficientes y
 automatizadas.
 Especializado en el desarrollo con **Java y JavaScript**, cuento con una sólida capacidad para el diseño y gestión de
@@ -20,7 +20,7 @@ seguir creciendo profesionalmente en el sector del desarrollo y la ingeniería d
 ---
 
 ## Mi Stack de Tecnologías
---
+
 
 Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo experiencia en mi formación:
 
@@ -34,7 +34,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ---
 ## Stack técnico
---
+
 ## 🛠️ Stack Técnico
 
 ### Lenguajes de Programación
@@ -58,7 +58,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 ---
 
 ## Formación 
---
+
 
 **TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES WEB (DAW)**
 CIFP Camino de la Miranda
@@ -75,7 +75,7 @@ Implika
 ---
 
 ## ¿Conectamos?
---
+
 
 Estoy abierto a conectar con otros desarrolladores, y busco activamente oportunidades para **prácticas** o roles de desarrollador **Trainee/Junior** donde pueda aportar mi base de conocimientos y crecer profesionalmente.
 
