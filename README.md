@@ -27,6 +27,16 @@ Me motiva el aprendizaje constante, afrontar retos complejos de optimización y 
 
 ## Stack Técnico
 
+Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo experiencia en mi formación:
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes Clave** | `Java` (Mi base actual), `HTML5`, `CSS3` |
+| **Bases de Datos** | `Oracle SQL` |
+| **Markup / Datos** | `XML`, `XSLT`, `DTD` |
+| **Herramientas/S.O.** | `Linux Bash`, `Git/GitHub` |
+| **Herramientas/IA** | `n8n`, `Google Antigravity` |
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
