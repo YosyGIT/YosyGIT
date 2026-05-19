@@ -1,4 +1,6 @@
-# José Rubia Inclán
+<center>
+  # José Rubia Inclán  
+</center>
 
 <p align="center">
   <b>Estudiante de Desarrollo de Aplicaciones Web (DAW)</b><br>
