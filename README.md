@@ -67,7 +67,8 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 <table align="center" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
   <tr style="border: none; background: transparent;">
-    <td width="55%" style="border: none; padding: 0 15px 0 0; vertical-align: top;">
+    
+    <td width="50%" style="border: none; padding: 0 15px 0 0; vertical-align: top;">
       <details>
         <summary style="cursor: pointer; list-style: none;">
           <samp>
@@ -144,9 +145,24 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
         </div>
       </details>
     </td>
-    <td width="45%" style="border: none; padding: 0; vertical-align: middle;" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programmer-coding-software-developer-pack-design-illustrations-6453119.png" width="85%" alt="Desarrollo Web" />
+    
+    <td width="50%" style="border: none; padding: 0 0 0 15px; vertical-align: top;">
+      <samp>
+        <b>🎯 Enfoque Profesional</b>
+        <br><br>
+        Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.
+        <br><br>
+        <b>Especialidades clave:</b>
+        <ul>
+          <li>Diseño de sistemas estructurados en <b>Java</b> y <b>JS</b></li>
+          <li>Optimización mediante scripting (<b>Bash/PowerShell</b>)</li>
+          <li>Modelado complejo de datos en <b>SQL</b> y <b>PL/SQL</b></li>
+          <li>Automatización avanzada con flujos de trabajo en <b>n8n</b></li>
+        </ul>
+        Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.
+      </samp>
     </td>
+
   </tr>
 </table>
 
