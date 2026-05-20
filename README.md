@@ -77,7 +77,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 <samp>
   <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR">
-  <i>
+  <br>
   <b>Técnico en Sistemas Microinformáticos y Redes</b>
   <br>
   <i>Centro Implika — 2020 - 2022</i>
