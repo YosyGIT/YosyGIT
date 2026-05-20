@@ -10,7 +10,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="[mailto:joserubiacontacto@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new)"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:joserubiacontacto@gmail.com?subject=Contacto%20desde%20GitHub">
+  <img src="https://img.shields.io/badge/Escríbeme_un_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email">
+  </a>
   <img src="https://img.shields.io/badge/Ubicación-Palencia,%20España-708090?style=for-the-badge&logo=google-maps&logoColor=white" alt="Ubicación">
 </p>
 
