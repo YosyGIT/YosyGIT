@@ -65,54 +65,57 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ## Formación académica
 
-<p align="left">
 <samp>
   <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
   <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
-  <i>CIFP Camino de la Miranda — 2024 - Presente</i><br>
-  • Lógica de programación y POO avanzada con <b>Java</b> y <b>JS</b>.<br>
-  • Gestión de datos complejos con <b>PL/SQL (Oracle)</b> y <b>MySQL</b>.<br>
-  • Scripting en <b>Bash/PowerShell</b> y flujos en <b>n8n</b>.
+  <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
 </samp>
-</p>
 
-<p align="left">
-<samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
-  <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
-  <i>Centro Implika — 2020 - 2022</i><br>
-  • Montaje, mantenimiento de hardware y soporte técnico.<br>
-  • Administración y configuración de sistemas Windows/Linux.<br>
-  • Resolución de incidencias locales y gestión de inventario.
-</samp>
-</p>
-
-<p align="left">
-<samp>
-  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
-  <b>Diseño y Creación de Videojuegos y RV</b><br>
-  <i>Centro Implika — 2020 - 2022</i><br>
-  • Desarrollo y lógica de mecánicas en <b>C#</b> usando <b>Unity</b>.<br>
-  • Modelado 3D, texturizado, entornos virtuales y Pixel Art.<br>
-  • Redacción de documentos de diseño técnico (GDD) y QA.
-</samp>
-</p>
+<details>
+  <summary style="cursor: pointer; margin-top: 4px;"><b>🔹 Ver competencias de DAW</b></summary>
+  <samp>
+    • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
+    • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
+    • <b>Scripting:</b> Automatización en PowerShell, Bash y n8n.<br>
+    • <b>Datos:</b> Gestión en PL/SQL (Oracle) y SQL (MySQL).<br>
+    • <b>IA:</b> Integración avanzada con Google Antigravity.
+  </samp>
+</details>
 
 <br>
 
 <samp>
-  <b style="font-size: 15px; color: #0077B5;">🎯 Enfoque Profesional</b>
-  <br><br>
-  Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.
-  <br><br>
-  <b>Especialidades clave:</b><br>
-  • Diseño estructurado en <b>Java</b> y <b>JS</b><br>
-  • Scripting optimizado (<b>Bash/PowerShell</b>)<br>
-  • Modelado de datos en <b>SQL</b> y <b>PL/SQL</b><br>
-  • Automatización avanzada de flujos en <b>n8n</b>
-  <br><br>
-  Busco aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.
+  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
+  <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
+  <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
 </samp>
+
+<details>
+  <summary style="cursor: pointer; margin-top: 4px;"><b>🔹 Ver competencias de SMR</b></summary>
+  <samp>
+    • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
+    • <b>Incidencias:</b> Solución de problemas de red y seguridad.<br>
+    • <b>Gestión:</b> Asistencia especializada y control de inventario.
+  </samp>
+</details>
+
+<br>
+
+<samp>
+  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
+  <b>Diseño y Creación de Videojuegos y RV</b><br>
+  <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
+</samp>
+
+<details>
+  <summary style="cursor: pointer; margin-top: 4px;"><b>🔸 Ver competencias de Videojuegos</b></summary>
+  <samp>
+    • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
+    • <b>Entornos RV:</b> Optimización inmersiva con alta carga visual.<br>
+    • <b>Arte Visual:</b> Modelado 3D, texturizado y diseño en Pixel Art.<br>
+    • <b>Proyectos:</b> Redacción técnica de GDD y Testing/QA.
+  </samp>
+</details>
 
 ---
 
