@@ -24,7 +24,7 @@ Apasionado por la tecnología y el desarrollo de software, actualmente me encuen
 
 > [!NOTE]
 > **Especializaciones y Base Técnica**
-> Sólida base adquirida en el desarrollo de soluciones lógicas y administración de sistemas. Dominio de programación orientada a objetos con **Java**, diseño y consulta de bases de datos relacionales en **SQL** y **PL/SQL (Oracle)**, así como gestión de entornos **Windows** y **Linux** mediante scripting avanzado en **PowerShell** y **Bash**.
+> Especializado en el desarrollo con **Java** y **JavaScript**, cuento con una sólida capacidad para el diseño y gestión de bases de datos complejas mediante **PL/SQL (Oracle)** y **SQL (MySQL)**. Tengo capacidad para la administración de sistemas en entornos **Windows** y **Linux**, y para la automatización de tareas mediante el uso de scripts en **PowerShell** y **Bash**. Asimismo, poseo conocimientos en lenguajes de marcas (**HTML** y **CSS**).
 
 > [!IMPORTANT]
 > **Cosas importantes sobre mí (Aprendizaje Autónomo)**
