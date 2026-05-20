@@ -91,7 +91,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 <details>
   <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 6px;">
-    <img src="https://img.shields.io/badge/Ver%20Competencias-8A2BE2?style=flat&logo=gnubash&logoColor=white" alt="Botón SMR">
+    <img src="https://img.shields.io/badge/Ver%20Competencias-8A2BE2?style=flat&logo=codefactor&logoColor=white" alt="Botón SMR">
   </summary>
   <samp>
     • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
@@ -110,7 +110,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 <details>
   <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 6px;">
-    <img src="https://img.shields.io/badge/Ver%20Competencias-D14836?style=flat&logo=unity&logoColor=white" alt="Botón Videojuegos">
+    <img src="https://img.shields.io/badge/Ver%20Competencias-D14836?style=flat&logo=codefactor&logoColor=white" alt="Botón Videojuegos">
   </summary>
   <samp>
     • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
