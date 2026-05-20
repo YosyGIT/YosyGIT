@@ -68,42 +68,51 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
   <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
   <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
 </samp>
-<br>
-<sub style="color: #708090;">
-  <i>• Programación: Desarrollo en Java, POO y patrones.</i><br>
-  <i>• Frontend: Interfaces dinámicas con HTML5, CSS3 y JS.</i><br>
-  <i>• Scripting: Automatización en PowerShell y Bash.</i><br>
-  <i>• Datos: Gestión en PL/SQL (Oracle) y SQL (MySQL).</i>
-</sub>
 
-<br><br>
+<details>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <samp>
+    • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
+    • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
+    • <b>Scripting:</b> Automatización en PowerShell y Bash.<br>
+    • <b>Datos:</b> Gestión en PL/SQL (Oracle) y SQL (MySQL).<br>
+  </samp>
+</details>
+
+<br>
 
 <samp>
   <img src="https://img.shields.io/badge/SMR--Grado%20Medio-8A2BE2?style=for-the-badge" alt="Grado Medio SMR"><br>
   <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
   <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
 </samp>
-<br>
-<sub style="color: #708090;">
-  <i>• Soporte Técnico: Diagnóstico/reparación de hardware y S.O.</i><br>
-  <i>• Incidencias: Solución de problemas de red y seguridad.</i><br>
-  <i>• Gestión: Asistencia especializada y control de inventario.</i>
-</sub>
 
-<br><br>
+<details>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <samp>
+    • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
+    • <b>Incidencias:</b> Solución de problemas de red y seguridad.<br>
+    • <b>Gestión:</b> Asistencia especializada y control de inventario.
+  </samp>
+</details>
+
+<br>
 
 <samp>
   <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
   <b>Diseño y Creación de Videojuegos y RV</b><br>
   <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
 </samp>
-<br>
-<sub style="color: #708090;">
-  <i>• Desarrollo: Uso de Unity y mecánicas de juego en C.</i><br>
-  <i>• Entornos RV: Optimización inmersiva con alta carga visual.</i><br>
-  <i>• Arte Visual: Modelado 3D, texturizado y diseño en Pixel Art.</i><br>
-  <i>• Proyectos: Redacción técnica de GDD y Testing/QA.</i>
-</sub>
+
+<details>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <samp>
+    • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
+    • <b>Entornos RV:</b> Optimización inmersiva con alta carga visual.<br>
+    • <b>Arte Visual:</b> Modelado 3D, texturizado y diseño en Pixel Art.<br>
+    • <b>Proyectos:</b> Redacción técnica de GDD y Testing/QA.
+  </samp>
+</details>
 
 ---
 
