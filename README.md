@@ -66,14 +66,18 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 ## Formación académica
 
 <samp>
-  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"> ▾<br>
+  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
   <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
   <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
 </samp>
 
 <details>
-  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #0077B5;">👉 Haz clic aquí para ver las competencias de DAW</summary>
-  <ul>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 4px;">
+    <samp style="display: block; background: rgba(110, 118, 129, 0.1); border: 1px solid rgba(110, 118, 129, 0.2); border-radius: 6px; padding: 6px 12px; font-size: 13px; color: #0077B5; font-weight: bold;">
+      🔹 Desplegar competencias técnicas de DAW
+    </samp>
+  </summary>
+  <ul style="margin-top: 8px;">
     <li><b>Programación Multiplataforma:</b> Desarrollo en Java, POO y patrones de diseño.</li>
     <li><b>Desarrollo Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JavaScript.</li>
     <li><b>Scripting y Automatización:</b> Scripts avanzados en PowerShell, Bash y flujos en n8n.</li>
@@ -85,14 +89,18 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 <div style="font-size: 8px;">&nbsp;</div>
 
 <samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"> ▾<br>
+  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
   <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
   <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
 </samp>
 
 <details>
-  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #0077B5;">👉 Haz clic aquí para ver las competencias de SMR</summary>
-  <ul>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 4px;">
+    <samp style="display: block; background: rgba(110, 118, 129, 0.1); border: 1px solid rgba(110, 118, 129, 0.2); border-radius: 6px; padding: 6px 12px; font-size: 13px; color: #0077B5; font-weight: bold;">
+      🔹 Desplegar competencias técnicas de SMR
+    </samp>
+  </summary>
+  <ul style="margin-top: 8px;">
     <li><b>Soporte Técnico:</b> Diagnóstico y reparación de hardware; instalación de software corporativo.</li>
     <li><b>Resolución de Incidencias:</b> Solución de problemas de conectividad, rendimiento y seguridad.</li>
     <li><b>Gestión y Clientes:</b> Asistencia especializada y mantenimiento de inventario técnico.</li>
@@ -108,8 +116,12 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #D14836;">👉 Haz clic aquí para ver las competencias de Videojuegos</summary>
-  <ul>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 4px;">
+    <samp style="display: block; background: rgba(110, 118, 129, 0.1); border: 1px solid rgba(110, 118, 129, 0.2); border-radius: 6px; padding: 6px 12px; font-size: 13px; color: #D14836; font-weight: bold;">
+      🔸 Desplegar competencias de Videojuegos y RV
+    </samp>
+  </summary>
+  <ul style="margin-top: 8px;">
     <li><b>Motores y Scripting:</b> Manejo avanzado de Unity y programación de mecánicas en C.</li>
     <li><b>Realidad Virtual:</b> Desarrollo y optimización de entornos inmersivos de alta carga visual.</li>
     <li><b>Diseño Visual:</b> Modelado 3D, texturizado y activos artísticos en Pixel Art.</li>
@@ -129,7 +141,6 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
   • Automatización avanzada con flujos de trabajo en <b>n8n</b><br><br>
   Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.
 </samp>
-
 ---
 
 ## ¿Conectamos?
