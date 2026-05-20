@@ -147,25 +147,20 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
     </td>
     
     <td width="50%" style="border: none; padding: 0 0 0 15px; vertical-align: top;">
-      <samp>
-        <b>🎯 Enfoque Profesional</b>
-        <br><br>
-        Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.
-        <br><br>
-        <b>Especialidades clave:</b>
-        <ul>
-          <li>Diseño de sistemas estructurados en <b>Java</b> y <b>JS</b></li>
-          <li>Optimización mediante scripting (<b>Bash/PowerShell</b>)</li>
-          <li>Modelado complejo de datos en <b>SQL</b> y <b>PL/SQL</b></li>
-          <li>Automatización avanzada con flujos de trabajo en <b>n8n</b></li>
-        </ul>
-        Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.
-      </samp>
+      <div style="background-color: rgba(110, 118, 129, 0.1); border-radius: 6px; padding: 15px; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 13px; line-height: 1.5;">
+        <b style="font-size: 14px; color: #0077B5;">🎯 Enfoque Profesional</b>
+        <p style="margin: 10px 0;">Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.</p>
+        <b>Especialidades clave:</b><br>
+        • Diseño de sistemas estructurados en <b>Java</b> y <b>JS</b><br>
+        • Optimización mediante scripting (<b>Bash/PowerShell</b>)<br>
+        • Modelado complejo de datos en <b>SQL</b> y <b>PL/SQL</b><br>
+        • Automatización avanzada con flujos de trabajo en <b>n8n</b>
+        <p style="margin: 15px 0 0 0;">Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.</p>
+      </div>
     </td>
 
   </tr>
 </table>
-
 
 ---
 
