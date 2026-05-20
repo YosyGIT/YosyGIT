@@ -70,7 +70,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i> Desplegar competencias aprendidas...</i></sub></summary>
   <samp>
     • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
     • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
@@ -88,7 +88,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i> Desplegar competencias aprendidas...</i></sub></summary>
   <samp>
     • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
     • <b>Incidencias:</b> Solución de problemas de red y seguridad.<br>
@@ -105,7 +105,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i>👉 Desplegar competencias aprendidas...</i></sub></summary>
+  <summary style="cursor: pointer; outline: none; margin-top: 2px;"><sub style="color: #708090;"><i> Desplegar competencias aprendidas...</i></sub></summary>
   <samp>
     • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
     • <b>Entornos RV:</b> Optimización inmersiva con alta carga visual.<br>
