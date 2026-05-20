@@ -1,10 +1,8 @@
-<!-- Banner animado (Efecto de olas fluidas) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=250&section=header&text=Jos%C3%A9%20Rubia%20Incl%C3%A1n&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20Java%20%7C%20Sistemas%20%7C%20Automatizaci%C3%B3n&descAlignY=58&descAlign=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Jos%C3%A9%20Rubia%20Incl%C3%A1n&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20Java%20%7C%20Sistemas%20%7C%20Automatizaci%C3%B3n&descAlignY=58&descAlign=60&descSize=20" width="100%" />
 
-<!-- Texto animado (Efecto máquina de escribir) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=800&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web+(DAW);Enfocado+en+crear+soluciones+eficientes+y+escalables;Especialista+en+Gesti%C3%B3n+de+Datos+y+Automatizaci%C3%B3n" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web+(DAW);Enfocado+en+crear+soluciones+eficientes+y+escalables;Especialista+en+Gesti%C3%B3n+de+Datos+y+Automatizaci%C3%B3n" alt="Typing SVG" />
   </a>
 </div>
 
@@ -66,13 +64,13 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 ## Formación académica
 
 <samp>
-  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
+  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-8A2BE2?style=for-the-badge" alt="Grado Superior DAW"><br>
   <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
   <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
 </samp>
 
 <details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>🔹 Ver competencias de DAW</b></summary>
+  <summary style="cursor: pointer; margin-top: 4px;"><b>💜 Ver competencias de DAW</b></summary>
   <samp>
     • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
     • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
@@ -84,74 +82,12 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 <br>
 
 <samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
+  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-8A2BE2?style=for-the-badge" alt="Grado Medio SMR"><br>
   <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
   <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
 </samp>
 
 <details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>🔹 Ver competencias de SMR</b></summary>
+  <summary style="cursor: pointer; margin-top: 4px;"><b>💜 Ver competencias de SMR</b></summary>
   <samp>
-    • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
-    • <b>Incidencias:</b> Solución de problemas de red y seguridad.<br>
-    • <b>Gestión:</b> Asistencia especializada y control de inventario.
-  </samp>
-</details>
-
-<br>
-
-<samp>
-  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
-  <b>Diseño y Creación de Videojuegos y RV</b><br>
-  <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
-</samp>
-
-<details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>🔸 Ver competencias de Videojuegos</b></summary>
-  <samp>
-    • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
-    • <b>Entornos RV:</b> Optimización inmersiva con alta carga visual.<br>
-    • <b>Arte Visual:</b> Modelado 3D, texturizado y diseño en Pixel Art.<br>
-    • <b>Proyectos:</b> Redacción técnica de GDD y Testing/QA.
-  </samp>
-</details>
-
----
-
-## ¿Conectamos?
-
-<p align="center">
-  ¡Estoy siempre abierto a charlar sobre desarrollo, automatización o nuevas tecnologías!
-</p>
-
-<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td style="border: none; padding: 10px;">
-      <a href="https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-%E2%9E%9C%20Jos%C3%A9%20Rubia%20Incl%C3%A1n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn">
-      </a>
-    </td>
-    <td style="border: none; padding: 10px;">
-      <a href="mailto:joserubiacontacto@gmail.com?subject=Contacto%20desde%20GitHub">
-        <img src="https://img.shields.io/badge/EMAIL-%E2%9E%9C%20joserubiacontacto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email">
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none; background: transparent;">
-    <td align="center" style="border: none; padding: 5px;">
-      <img src="https://img.shields.io/badge/UBICACI%C3%93N-Palencia%2C%20Espa%C3%B1a-708090?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación">
-    </td>
-    <td align="center" style="border: none; padding: 5px;">
-      <img src="https://img.shields.io/badge/DISPONIBILIDAD-Inmediata%20%2F%20Pr%C3%A1cticas-28A745?style=flat-square&logo=git&logoColor=white" alt="Disponibilidad">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=YosyGIT&countColor=%23007EC6&style=for-the-badge" alt="Contador de Visitas">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=100&section=footer" width="100%" />
-
+    • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br
