@@ -76,7 +76,7 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
   <samp>
     • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
     • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
-    • <b>Scripting:</b> Automatización en PowerShell, Bash y n8n.<br>
+    • <b>Scripting:</b> Automatización en PowerShell y Bash<br>
     • <b>Datos:</b> Gestión en PL/SQL (Oracle) y SQL (MySQL).<br>
   </samp>
 </details>
