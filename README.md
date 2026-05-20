@@ -70,7 +70,9 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>💜 Ver competencias de DAW</b></summary>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 6px;">
+    <img src="https://img.shields.io/badge/Ver%20Competencias-8A2BE2?style=flat&logo=codefactor&logoColor=white" alt="Botón DAW">
+  </summary>
   <samp>
     • <b>Programación:</b> Desarrollo en Java, POO y patrones.<br>
     • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
@@ -88,7 +90,9 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>💜 Ver competencias de SMR</b></summary>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 6px;">
+    <img src="https://img.shields.io/badge/Ver%20Competencias-8A2BE2?style=flat&logo=gnubash&logoColor=white" alt="Botón SMR">
+  </summary>
   <samp>
     • <b>Soporte Técnico:</b> Diagnóstico/reparación de hardware y S.O.<br>
     • <b>Incidencias:</b> Solución de problemas de red y seguridad.<br>
@@ -105,7 +109,9 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 </samp>
 
 <details>
-  <summary style="cursor: pointer; margin-top: 4px;"><b>🔸 Ver competencias de Videojuegos</b></summary>
+  <summary style="cursor: pointer; list-style: none; outline: none; margin-top: 6px;">
+    <img src="https://img.shields.io/badge/Ver%20Competencias-D14836?style=flat&logo=unity&logoColor=white" alt="Botón Videojuegos">
+  </summary>
   <samp>
     • <b>Desarrollo:</b> Uso de Unity y mecánicas de juego en C.<br>
     • <b>Entornos RV:</b> Optimización inmersiva con alta carga visual.<br>
