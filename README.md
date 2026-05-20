@@ -65,102 +65,70 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ## Formación académica
 
-<table align="center" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
-  <tr style="border: none; background: transparent;">
-    
-    <td width="50%" style="border: none; padding: 0 15px 0 0; vertical-align: top;">
-      <details>
-        <summary style="cursor: pointer; list-style: none;">
-          <samp>
-            <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"> ▾<br>
-            <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
-            <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
-          </samp>
-        </summary>
-        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
-          <b>💻 Desarrollo de Software y Lógica:</b>
-          <ul>
-            <li><b>Programación Multiplataforma:</b> Desarrollo en Java, POO y patrones de diseño.</li>
-            <li><b>Desarrollo Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JavaScript.</li>
-            <li><b>Scripting:</b> Automatización con scripts avanzados en PowerShell y Bash.</li>
-          </ul>
-          <b>🗄️ Gestión de Datos e Infraestructura:</b>
-          <ul>
-            <li><b>Bases de Datos:</b> Diseño y administración de sistemas relacionales.</li>
-            <li><b>Lenguajes de Consulta:</b> Dominio de PL/SQL (Oracle) y SQL (MySQL).</li>
-            <li><b>Entornos:</b> Despliegue y optimización en Windows y Linux.</li>
-          </ul>
-          <b>🤖 Innovación e IA:</b>
-          <ul>
-            <li><b>Automatización de Flujos:</b> Conexión de servicios eficientes con n8n.</li>
-            <li><b>IA Aplicada:</b> Integración de herramientas como Google Antigravity.</li>
-          </ul>
-        </div>
-      </details>
-      <div style="font-size: 6px;">&nbsp;</div>
-      <details>
-        <summary style="cursor: pointer; list-style: none;">
-          <samp>
-            <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"> ▾<br>
-            <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
-            <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
-          </samp>
-        </summary>
-        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
-          <b>🛠️ Mantenimiento y Soporte Técnico:</b>
-          <ul>
-            <li><b>Hardware:</b> Diagnóstico y reparación de averías en componentes físicos.</li>
-            <li><b>Software:</b> Instalación y configuración de S.O. y software corporativo.</li>
-            <li><b>Incidencias:</b> Soporte técnico directo en conectividad y seguridad.</li>
-          </ul>
-          <b>📋 Gestión de Servicios Técnicos:</b>
-          <ul>
-            <li><b>Atención al Cliente:</b> Asesoramiento especializado y asistencia directa.</li>
-            <li><b>Documentación:</b> Registro de intervenciones técnicas e inventario.</li>
-          </ul>
-        </div>
-      </details>
-      <div style="font-size: 6px;">&nbsp;</div>
-      <details>
-        <summary style="cursor: pointer; list-style: none;">
-          <samp>
-            <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"> ▾<br>
-            <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
-            <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
-          </samp>
-        </summary>
-        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
-          <b>🎮 Desarrollo y Programación:</b>
-          <ul>
-            <li><b>Motores de Juego:</b> Manejo avanzado de Unity para entornos interactivos.</li>
-            <li><b>Scripting:</b> Mecánicas y comportamiento de personajes con lenguaje C.</li>
-            <li><b>Realidad Virtual (RV):</b> Creación de entornos inmersivos optimizados.</li>
-          </ul>
-          <b>🎨 Diseño Visual y Gestión:</b>
-          <ul>
-            <li><b>Modelado 3D y Arte:</b> Creación de activos tridimensionales y Pixel Art.</li>
-            <li><b>Documentación:</b> Redacción de documentos de diseño técnico (GDD).</li>
-            <li><b>QA / Testing:</b> Depuración de scripts y optimización de rendimiento gráfico.</li>
-          </ul>
-        </div>
-      </details>
-    </td>
-    
-    <td width="50%" style="border: none; padding: 0 0 0 15px; vertical-align: top;">
-      <div style="background-color: rgba(110, 118, 129, 0.1); border-radius: 6px; padding: 15px; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace; font-size: 13px; line-height: 1.5;">
-        <b style="font-size: 14px; color: #0077B5;">🎯 Enfoque Profesional</b>
-        <p style="margin: 10px 0;">Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.</p>
-        <b>Especialidades clave:</b><br>
-        • Diseño de sistemas estructurados en <b>Java</b> y <b>JS</b><br>
-        • Optimización mediante scripting (<b>Bash/PowerShell</b>)<br>
-        • Modelado complejo de datos en <b>SQL</b> y <b>PL/SQL</b><br>
-        • Automatización avanzada con flujos de trabajo en <b>n8n</b>
-        <p style="margin: 15px 0 0 0;">Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.</p>
-      </div>
-    </td>
+<samp>
+  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"> ▾<br>
+  <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
+  <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
+</samp>
 
-  </tr>
-</table>
+<details>
+  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #0077B5;">👉 Haz clic aquí para ver las competencias de DAW</summary>
+  <ul>
+    <li><b>Programación Multiplataforma:</b> Desarrollo en Java, POO y patrones de diseño.</li>
+    <li><b>Desarrollo Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JavaScript.</li>
+    <li><b>Scripting y Automatización:</b> Scripts avanzados en PowerShell, Bash y flujos en n8n.</li>
+    <li><b>Bases de Datos:</b> Dominio de PL/SQL (Oracle) y SQL (MySQL).</li>
+    <li><b>IA Aplicada:</b> Integración de herramientas como Google Antigravity.</li>
+  </ul>
+</details>
+
+<div style="font-size: 8px;">&nbsp;</div>
+
+<samp>
+  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"> ▾<br>
+  <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
+  <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
+</samp>
+
+<details>
+  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #0077B5;">👉 Haz clic aquí para ver las competencias de SMR</summary>
+  <ul>
+    <li><b>Soporte Técnico:</b> Diagnóstico y reparación de hardware; instalación de software corporativo.</li>
+    <li><b>Resolución de Incidencias:</b> Solución de problemas de conectividad, rendimiento y seguridad.</li>
+    <li><b>Gestión y Clientes:</b> Asistencia especializada y mantenimiento de inventario técnico.</li>
+  </ul>
+</details>
+
+<div style="font-size: 8px;">&nbsp;</div>
+
+<samp>
+  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
+  <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
+  <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
+</samp>
+
+<details>
+  <summary style="cursor: pointer; padding: 5px 0; font-size: 13px; color: #D14836;">👉 Haz clic aquí para ver las competencias de Videojuegos</summary>
+  <ul>
+    <li><b>Motores y Scripting:</b> Manejo avanzado de Unity y programación de mecánicas en C.</li>
+    <li><b>Realidad Virtual:</b> Desarrollo y optimización de entornos inmersivos de alta carga visual.</li>
+    <li><b>Diseño Visual:</b> Modelado 3D, texturizado y activos artísticos en Pixel Art.</li>
+    <li><b>Gestión de Proyectos:</b> Redacción de GDD (Documentos de Diseño Técnico) y Testing/QA.</li>
+  </ul>
+</details>
+
+<div style="font-size: 15px;">&nbsp;</div>
+
+<samp>
+  <b>🎯 Enfoque Profesional</b><br><br>
+  Mi formación combina el desarrollo de soluciones lógicas y la automatización inteligente con una base sólida en administración de sistemas e infraestructura de datos.<br><br>
+  <b>Especialidades clave:</b><br>
+  • Diseño de sistemas estructurados en <b>Java</b> y <b>JS</b><br>
+  • Optimización mediante scripting (<b>Bash/PowerShell</b>)<br>
+  • Modelado complejo de datos en <b>SQL</b> y <b>PL/SQL</b><br>
+  • Automatización avanzada con flujos de trabajo en <b>n8n</b><br><br>
+  Busco activamente aplicar este ecosistema técnico en entornos reales a través de mis primeras experiencias de prácticas o roles Junior.
+</samp>
 
 ---
 
