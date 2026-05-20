@@ -99,14 +99,15 @@ Estoy siempre abierto a charlar sobre desarrollo, automatización o nuevas tecno
 
 
 
-* **📩 Correo electrónico:** [joserubiacontacto@gmail.com](mailto:joserubiacontacto@gmail.com)
-
-* **🔗 LinkedIn:** [linkedin.com/in/josé-rubia-inclán](https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/)
+<div align="center">
+  <a href="mailto:joserubiacontacto@gmail.com?subject=Hola%20José">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4EAA25&background=0D1117&center=true&vCenter=true&width=500&lines=%E2%9E%9C+~%2Fcontacto%3A+ping+joserubiacontacto%40gmail.com;%E2%9E%9C+~%2Fcontacto%3A+Estableciendo+conexi%C3%B3n...;%E2%9E%9C+~%2Fcontacto%3A+%C2%A1Haz+clic+aqu%C3%AD+para+enviar+un+correo!" alt="Terminal de Contacto" />
+  </a>
+</div>
 
 
 
 <br>
-
 
 
 <p align="center">
@@ -115,4 +116,6 @@ Estoy siempre abierto a charlar sobre desarrollo, automatización o nuevas tecno
 
 </p> 
 
+<!-- Coloca esto al final del todo, debajo del contador de visitas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=120&section=footer" width="100%" />
 
