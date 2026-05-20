@@ -65,29 +65,90 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ## Formación académica
 
-<div align="center">
-<div align="left" style="max-width: 600px;">
-
-<samp>
-  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
-  <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
-  <i>CIFP Camino de la Miranda — 2024 - Presente</i>
-</samp>
-<div style="font-size: 8px;">&nbsp;</div>
-<samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
-  <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
-  <i>Centro Implika — 2020 - 2022</i>
-</samp>
-<div style="font-size: 8px;">&nbsp;</div>
-<samp>
-  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
-  <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
-  <i>Centro Implika — 2020 - 2022</i>
-</samp>
-
-</div>
-</div>
+<table align="center" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" style="border: none; padding: 0 15px 0 0; vertical-align: top;">
+      <details>
+        <summary style="cursor: pointer; list-style: none;">
+          <samp>
+            <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"> ▾<br>
+            <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
+            <i>CIFP Camino de la Miranda — 2024 - Presente (Palencia)</i>
+          </samp>
+        </summary>
+        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
+          <b>💻 Desarrollo de Software y Lógica:</b>
+          <ul>
+            <li><b>Programación Multiplataforma:</b> Desarrollo en Java, POO y patrones de diseño.</li>
+            <li><b>Desarrollo Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JavaScript.</li>
+            <li><b>Scripting:</b> Automatización con scripts avanzados en PowerShell y Bash.</li>
+          </ul>
+          <b>🗄️ Gestión de Datos e Infraestructura:</b>
+          <ul>
+            <li><b>Bases de Datos:</b> Diseño y administración de sistemas relacionales.</li>
+            <li><b>Lenguajes de Consulta:</b> Dominio de PL/SQL (Oracle) y SQL (MySQL).</li>
+            <li><b>Entornos:</b> Despliegue y optimización en Windows y Linux.</li>
+          </ul>
+          <b>🤖 Innovación e IA:</b>
+          <ul>
+            <li><b>Automatización de Flujos:</b> Conexión de servicios eficientes con n8n.</li>
+            <li><b>IA Aplicada:</b> Integración de herramientas como Google Antigravity.</li>
+          </ul>
+        </div>
+      </details>
+      <div style="font-size: 6px;">&nbsp;</div>
+      <details>
+        <summary style="cursor: pointer; list-style: none;">
+          <samp>
+            <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"> ▾<br>
+            <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
+            <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
+          </samp>
+        </summary>
+        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
+          <b>🛠️ Mantenimiento y Soporte Técnico:</b>
+          <ul>
+            <li><b>Hardware:</b> Diagnóstico y reparación de averías en componentes físicos.</li>
+            <li><b>Software:</b> Instalación y configuración de S.O. y software corporativo.</li>
+            <li><b>Incidencias:</b> Soporte técnico directo en conectividad y seguridad.</li>
+          </ul>
+          <b>📋 Gestión de Servicios Técnicos:</b>
+          <ul>
+            <li><b>Atención al Cliente:</b> Asesoramiento especializado y asistencia directa.</li>
+            <li><b>Documentación:</b> Registro de intervenciones técnicas e inventario.</li>
+          </ul>
+        </div>
+      </details>
+      <div style="font-size: 6px;">&nbsp;</div>
+      <details>
+        <summary style="cursor: pointer; list-style: none;">
+          <samp>
+            <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"> ▾<br>
+            <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
+            <i>Centro Implika — 2020 - 2022 (Valladolid)</i>
+          </samp>
+        </summary>
+        <div style="font-size: 13px; padding: 10px 0 0 10px; color: #708090;">
+          <b>🎮 Desarrollo y Programación:</b>
+          <ul>
+            <li><b>Motores de Juego:</b> Manejo avanzado de Unity para entornos interactivos.</li>
+            <li><b>Scripting:</b> Mecánicas y comportamiento de personajes con lenguaje C.</li>
+            <li><b>Realidad Virtual (RV):</b> Creación de entornos inmersivos optimizados.</li>
+          </ul>
+          <b>🎨 Diseño Visual y Gestión:</b>
+          <ul>
+            <li><b>Modelado 3D y Arte:</b> Creación de activos tridimensionales y Pixel Art.</li>
+            <li><b>Documentación:</b> Redacción de documentos de diseño técnico (GDD).</li>
+            <li><b>QA / Testing:</b> Depuración de scripts y optimización de rendimiento gráfico.</li>
+          </ul>
+        </div>
+      </details>
+    </td>
+    <td width="45%" style="border: none; padding: 0; vertical-align: middle;" align="center">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programmer-coding-software-developer-pack-design-illustrations-6453119.png" width="85%" alt="Desarrollo Web" />
+    </td>
+  </tr>
+</table>
 
 
 ---
