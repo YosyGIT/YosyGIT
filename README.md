@@ -67,21 +67,21 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 <samp>
 🔵 <b>Técnico Superior en Desarrollo de Aplicaciones Web (DAW)</b>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>CIFP Camino de la Miranda — 2024 - Presente</i>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><i>CIFP Camino de la Miranda — 2024 - Presente</i>
 </samp>
 
 <br>
 
 <samp>
 🟢 <b>Técnico en Sistemas Microinformáticos y Redes (SMR)</b>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Centro Implika — 2020 - 2022</i>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><i>Centro Implika — 2020 - 2022</i>
 </samp>
 
 <br>
 
 <samp>
 🟣 <b>Especialización en Diseño y Creación de Videojuegos y Realidad Virtual</b>
-&nbsp;&nbsp;&nbsp;&nbsp;<i>Centro Implika — 2020 - 2022</i>
+&nbsp;&nbsp;&nbsp;&nbsp;<br><i>Centro Implika — 2020 - 2022</i>
 </samp>
 
 
