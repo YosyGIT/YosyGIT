@@ -24,11 +24,17 @@
 
 Apasionado por la tecnología y el desarrollo de software, actualmente me encuentro cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**. Mi enfoque principal está en el diseño de sistemas lógicos, la optimización de procesos y la automatización inteligente.
 
-> **Desarrollo** <br> Especializado en la lógica de programación con **Java** y **JavaScript**, construyendo soluciones estructuradas y limpias.
+> [!NOTE]
+> **Desarrollo**
+> Especializado en la lógica de programación con **Java** y **JavaScript**, construyendo soluciones estructuradas y limpias.
 
-> **Datos** <br> Sólida base en el diseño, gestión y consulta de bases de datos complejas utilizando **PL/SQL (Oracle)** y **SQL (MySQL)**, además de la manipulación de datos con entornos estructurados como **XML**.
+> [!TIP]
+> **Datos**
+> Sólida base en el diseño, gestión y consulta de bases de datos complejas utilizando **PL/SQL (Oracle)** y **SQL (MySQL)**, además de la manipulación de datos con entornos estructurados como **XML**.
 
-> **Sistemas y Automatización** <br> Capacidad para la administración de entornos **Windows** y **Linux**, optimizando tareas repetitivas mediante scripting en **PowerShell** y **Bash**, e integrando flujos de trabajo avanzados con herramientas de IA como **n8n** y **Google Antigravity**.
+> [!IMPORTANT]
+> **Sistemas y Automatización**
+> Capacidad para la administración de entornos **Windows** y **Linux**, optimizando tareas repetitivas mediante scripting en **PowerShell** y **Bash**, e integrando flujos de trabajo avanzados con herramientas de IA como **n8n** y **Google Antigravity**.
 
 Me motiva el aprendizaje constante, afrontar retos complejos de optimización y aportar valor real en proyectos tecnológicos. Busco activamente oportunidades para dar mis primeros pasos profesionales en roles **Trainee/Junior** o **Prácticas**.
 
