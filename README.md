@@ -65,14 +65,20 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ## Formación académica
 
+> [!NOTE]
+> #### Grado Superior
 > **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**
-> _CIFP Camino de la Miranda — 2024 - Presente_
+> CIFP Camino de la Miranda — *2024 - Presente*
 
+> [!TIP]
+> #### Grado Medio
 > **Técnico en Sistemas Microinformáticos y Redes (SMR)**
-> _Centro Implika — 2020 - 2022_
+> Centro Implika — *2020 - 2022*
 
+> [!IMPORTANT]
+> #### Especialización
 > **Especialización en Diseño y Creación de Videojuegos y Realidad Virtual**
-> _Centro Implika — 2020 - 2022_
+> Centro Implika — *2020 - 2022*
 
 
 
