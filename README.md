@@ -78,7 +78,6 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
     • <b>Frontend:</b> Interfaces dinámicas con HTML5, CSS3 y JS.<br>
     • <b>Scripting:</b> Automatización en PowerShell, Bash y n8n.<br>
     • <b>Datos:</b> Gestión en PL/SQL (Oracle) y SQL (MySQL).<br>
-    • <b>IA:</b> Integración avanzada con Google Antigravity.
   </samp>
 </details>
 
