@@ -65,23 +65,32 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 ## Formación académica
 
-<samp>
-  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
-  <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
-  <i>CIFP Camino de la Miranda — 2024 - Presente</i>
-</samp>
-<div style="font-size: 8px;">&nbsp;</div>
-<samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
-  <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
-  <i>Centro Implika — 2020 - 2022</i>
-</samp>
-<div style="font-size: 8px;">&nbsp;</div>
-<samp>
-  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
-  <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
-  <i>Centro Implika — 2020 - 2022</i>
-</samp>
+<table align="center" style="border-collapse: collapse; border: none; background: transparent; width: 100%;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" style="border: none; padding: 0 15px 0 0; vertical-align: top;">
+      <samp>
+        <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW"><br>
+        <b>Técnico Superior en Desarrollo de Aplicaciones Web</b><br>
+        <i>CIFP Camino de la Miranda — 2024 - Presente</i>
+      </samp>
+      <div style="font-size: 8px;">&nbsp;</div>
+      <samp>
+        <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR"><br>
+        <b>Técnico en Sistemas Microinformáticos y Redes</b><br>
+        <i>Centro Implika — 2020 - 2022</i>
+      </samp>
+      <div style="font-size: 8px;">&nbsp;</div>
+      <samp>
+        <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación"><br>
+        <b>Diseño y Creación de Videojuegos y Realidad Virtual</b><br>
+        <i>Centro Implika — 2020 - 2022</i>
+      </samp>
+    </td>
+    <td width="45%" style="border: none; padding: 0; vertical-align: middle;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosyGIT&layout=compact&theme=transparent&hide_border=true&title_color=007EC6&text_color=708090&langs_count=5" width="100%" alt="Lenguajes más usados por YosyGIT" />
+    </td>
+  </tr>
+</table>
 
 
 ---
