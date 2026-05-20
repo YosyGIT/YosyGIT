@@ -91,35 +91,42 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 
 
 
-## ¿Conectamos?
+---
 
-
-
-Estoy siempre abierto a charlar sobre desarrollo, automatización o nuevas tecnologías. ¡No dudes en contactarme!
-
-
+## 🤝 ¿Conectamos?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.gif" width="45" alt="LinkedIn Animado">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:joserubiacontacto@gmail.com">
-    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45" alt="Email Animado">
-  </a>
+  ¡Estoy siempre abierto a charlar sobre desarrollo, automatización o nuevas tecnologías!
 </p>
 
-
+<table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td style="border: none; padding: 10px;">
+      <a href="https://www.linkedin.com/in/jos%C3%A9-rubia-incl%C3%A1n-024578284/" target="_blank">
+        <img src="https://img.shields.io/badge/LINKEDIN-%E2%9E%9C%20Jos%C3%A9%20Rubia%20Incl%C3%A1n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45" alt="LinkedIn">
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="mailto:joserubiacontacto@gmail.com?subject=Contacto%20desde%20GitHub">
+        <img src="https://img.shields.io/badge/EMAIL-%E2%9E%9C%20joserubiacontacto%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email">
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none; background: transparent;">
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://img.shields.io/badge/UBICACI%C3%93N-Palencia%2C%20Espa%C3%B1a-708090?style=flat-square&logo=google-maps&logoColor=white" alt="Ubicación">
+    </td>
+    <td align="center" style="border: none; padding: 5px;">
+      <img src="https://img.shields.io/badge/DISPONIBILIDAD-Inmediata%20%2F%20Pr%C3%A1cticas-28A745?style=flat-square&logo=git&logoColor=white" alt="Disponibilidad">
+    </td>
+  </tr>
+</table>
 
 <br>
 
-
 <p align="center">
-
   <img src="https://api.visitorbadge.io/api/visitors?path=YosyGIT&countColor=%23007EC6&style=for-the-badge" alt="Contador de Visitas">
+</p>
 
-</p> 
-
-<!-- Coloca esto al final del todo, debajo del contador de visitas -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=100&section=footer" width="100%" />
 
