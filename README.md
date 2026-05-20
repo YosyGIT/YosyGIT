@@ -66,27 +66,27 @@ Estas son algunas de las tecnologías y lenguajes con los que trabajo y tengo ex
 ## Formación académica
 
 <samp>
-  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior">
+  <img src="https://img.shields.io/badge/DAW--Grado%20Superior-0077B5?style=for-the-badge" alt="Grado Superior DAW">
   <br>
   <b>Técnico Superior en Desarrollo de Aplicaciones Web</b>
   <br>
   <i>CIFP Camino de la Miranda — 2024 - Presente</i>
 </samp>
 
-<br><br>
+<br>
 
 <samp>
-  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-708090?style=for-the-badge" alt="Grado Medio">
+  <img src="https://img.shields.io/badge/SMR--Grado%20Medio-0077B5?style=for-the-badge" alt="Grado Medio SMR">
   <br>
   <b>Técnico en Sistemas Microinformáticos y Redes</b>
   <br>
   <i>Centro Implika — 2020 - 2022</i>
 </samp>
 
-<br><br>
+<br>
 
 <samp>
-  <img src="https://img.shields.io/badge/ESPECIALIZACIÓN-D14836?style=for-the-badge" alt="Curso de formación">
+  <img src="https://img.shields.io/badge/CURSO%20DE%20FORMACIÓN-D14836?style=for-the-badge" alt="Curso de Formación">
   <br>
   <b>Diseño y Creación de Videojuegos y Realidad Virtual</b>
   <br>
