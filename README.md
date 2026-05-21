@@ -24,7 +24,7 @@ Apasionado por la tecnología y el desarrollo de software, actualmente me encuen
 
 > [!NOTE]
 > **Especializaciones y Base Técnica**
-> Especializado en el desarrollo con **Java** y **JavaScript**, cuento con una sólida capacidad para el diseño y gestión de bases de datos complejas mediante **PL/SQL (Oracle)** y **SQL (MySQL)**. Tengo capacidad para la administración de sistemas en entornos **Windows** y **Linux**, y para la automatización de tareas mediante el uso de scripts en **PowerShell** y **Bash**. Asimismo, poseo conocimientos en lenguajes de marcas (**HTML** y **CSS**).
+> Especializado en el desarrollo con **Java** y **JavaScript**, cuento con una sólida capacidad para el diseño y gestión de bases de datos complejas mediante **PL/SQL (Oracle)** y **SQL (MySQL)**. También manejo entornos de terminal en Windows y Linux (gestión de usuarios, volúmenes), y para la automatización de tareas mediante el uso de scripts en **PowerShell** y **Bash**. Asimismo, poseo conocimientos en lenguajes de marcas (**HTML** y **CSS**).
 
 > [!IMPORTANT]
 > **Cosas importantes sobre mí (Aprendizaje Autónomo)**
